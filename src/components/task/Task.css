@@ -1,0 +1,6 @@
+.Task {
+    border: 1px solid black;
+    border-radius: 0.5px;
+    font: inherit;
+    margin: 15px;
+}
